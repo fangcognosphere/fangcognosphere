@@ -6,7 +6,7 @@ $$
 <h1 align="center">
     <img align="center" src="https://avatars.githubusercontent.com/u/152678330?v=4" style="border-radius: 50%" height="30" width="30"> Hello world! 👋
 </h1>
-<h3 align="center">Hi, I'm Zhou Fang, a Front-Back Developer from China Vietnam.</h3> 
+<h3 align="center">Hi, I'm Zhou Fang, a Front-Back Developer from China/Vietnam.</h3> 
 <br>
 <h2 align="center">✉️ Contact with me:</h2>
 <p align="center">
