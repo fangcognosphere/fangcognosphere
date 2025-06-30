@@ -10,8 +10,8 @@ $$
 <br>
 <h2 align="center">✉️ Contact with me:</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/fang-zhou-145246291" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fang-zhou-145246291" height="30" width="40">
+    <a href="https://linkedin.com/in/fangzhou001126" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fangzhou001126" height="30" width="40">
     </a>
     <a href="https://stackoverflow.com/users/23025153/fang-zhou" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23025153/fang-zhou" height="30" width="40">
