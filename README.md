@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`05f0a50`](https://github.com/fangzhou-11/SuoiNgoc/commit/05f0a501b9bc01d3bee3832157daf39e4f96cffd) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 📦 Pushed [`2467ef9`](https://github.com/fangzhou-11/SuoiNgoc/commit/2467ef96e983e03f8d53a885e0759e9da7ea132b) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 🆕 Created branch main in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🎉 Merged PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. 📦 Pushed [`6343445`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/634344566effa9861edb0ceaa95de59341a28052) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+1. 📦 Pushed [`f9eeb04`](https://github.com/fangzhou-11/SuoiNgoc/commit/f9eeb04e17f1be3c9613aa03ad769a5d36c231a7) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`b188a8f`](https://github.com/fangzhou-11/SuoiNgoc/commit/b188a8f68fc83ac6464e1c0f88d36892acc3f696) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 📦 Pushed [`05f0a50`](https://github.com/fangzhou-11/SuoiNgoc/commit/05f0a501b9bc01d3bee3832157daf39e4f96cffd) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 📦 Pushed [`2467ef9`](https://github.com/fangzhou-11/SuoiNgoc/commit/2467ef96e983e03f8d53a885e0759e9da7ea132b) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🆕 Created branch main in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
