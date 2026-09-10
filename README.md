@@ -95,7 +95,7 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. ⭐ Starred [`nagisanzenin/truanayangi`](https://github.com/nagisanzenin/truanayangi)
+1. ⭐ Starred [`truanayangi-com/truanayangi`](https://github.com/truanayangi-com/truanayangi)
 2. 📦 Pushed [`51e026c`](https://github.com/fangzhou-11/discord_connect/commit/51e026c8a3d17867fbf8545ff62c3b45927dfab3) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
 3. 🆕 Created branch main in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
 4. ⭐ Starred [`miuuyy/codex-chatgpt-web`](https://github.com/miuuyy/codex-chatgpt-web)
